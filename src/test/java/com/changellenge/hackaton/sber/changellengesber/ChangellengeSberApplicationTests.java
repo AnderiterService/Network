@@ -1,10 +1,10 @@
-package com.changellenge.hackaton.sber.network;
+package com.changellenge.hackaton.sber.changellengesber;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NetworkApplicationTests {
+class ChangellengeSberApplicationTests {
 
 	@Test
 	void contextLoads() {

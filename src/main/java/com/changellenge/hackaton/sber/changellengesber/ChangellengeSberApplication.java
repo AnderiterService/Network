@@ -1,13 +1,13 @@
-package com.changellenge.hackaton.sber.network;
+package com.changellenge.hackaton.sber.changellengesber;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NetworkApplication {
+public class ChangellengeSberApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NetworkApplication.class, args);
+		SpringApplication.run(ChangellengeSberApplication.class, args);
 	}
 
 }
